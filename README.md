@@ -1,6 +1,6 @@
 # MounLock
 
-MounLock是一款廉价的Windows Hello 摄像头方案，成本35左右，并且能够实现正常的网络摄像头功能，性能可达**1920*1080**，**60FPS**
+MounLock是一款廉价的Windows Hello 摄像头方案，开机后无需输入密码即刻人脸识别通过解锁电脑，成本35左右，并且能够实现正常的网络摄像头功能，性能可达**1920*1080**，**60FPS**
 ![9d26b0ae3ac030125684ae46e698fcf](https://github.com/xujianle/MounLock/assets/58109810/eede4f78-927a-4ec8-b653-918b6b2dfa16)
 
 
